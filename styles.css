@@ -21,3 +21,9 @@ footer {
 	font-size: 90%;
 }
 
+#hansen {
+    position: fixed;
+    top: 20%;
+    left: 0px;
+    height: 50%;
+}
